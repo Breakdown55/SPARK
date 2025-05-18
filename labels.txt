@@ -1,0 +1,2 @@
+0 lightning
+1 not lighting
