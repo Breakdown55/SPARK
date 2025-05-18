@@ -1,1 +1,1 @@
-A tool for firefighters
+Mitigate lightning risks and expenses through proactive measures
