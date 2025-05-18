@@ -13,3 +13,23 @@ We're incredibly proud of building a functional and cohesive system that brings 
 Throughout this project, we gather a greater understanding of PyQt GUI development and API integration. We gained valuable experience working with video processing, geolocation data, and deploying AI models in a real-world context. Additionally, we learned how to troubleshoot complex Python libraries, manage file paths across systems, and create a good user experience from input to response.
 ## What's next for S.P.A.R.K.
 What we hope to accomplish next for S.P.A.R.K. is to integrate the program into homes and overall expand the program past just the fire department, and eventually allow emergency services to respond to all sorts of things, such as other natural disasters and various health emergencies some might be experiencing,  all through the use of camera analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#SOURCES:
